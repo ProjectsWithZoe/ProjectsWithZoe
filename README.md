@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @ProjectsWithZoe
-- 👀 I’m interested in becoming a Front End Developer and eventually Full Stack.
-- 🌱 I’m currently learning Javascript, Python and React.
-- 💞️ I’m looking to collaborate on simple code scripts and debugging.
+- 👀 I’m a junior data scientist and analyst.
+- Results-driven and detail-oriented developer with experience completing supervised and unsupervised coding projects in various languages, including Python, SQL, HTML, and CSS. 
+
+- Recently completed a rigorous six-month data science bootcamp, honing expertise in statistical analysis, machine learning, and data visualisation.
+
+- Proven ability to work independently and collaboratively to meet project objectives and exceed client expectations. 
+
+- Keen to solve real-world problems, passionate about data and eager for continuous learning.
+
+- Open to both remote and in-office roles.
+
 
 <!---
 ProjectsWithZoe/ProjectsWithZoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
