@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProjectsWithZoe
-- 👀 I’m a junior data scientist and analyst.
+- 👀 I’m a Web developer and analyst.
 - Results-driven and detail-oriented developer with experience completing supervised and unsupervised coding projects in various languages, including Python, SQL, HTML, and CSS. 
 
 - Recently completed a rigorous six-month data science bootcamp, honing expertise in statistical analysis, machine learning, and data visualisation, and a FullStack bootcamp honing in other aspects of front and backend programming.
